@@ -1,0 +1,9 @@
+{
+  "name": "minecraft-bedrock-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "dependencies": {
+    "bedrock-protocol": "^3.40.0",
+    "axios": "^1.6.0"
+  }
+}
